@@ -1,2 +1,0 @@
-# vrawuzhir.github.io
-HI
