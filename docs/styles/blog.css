@@ -1,0 +1,62 @@
+a:visited {
+  color:rgb(252, 255, 63);
+}
+
+a:active {
+  font-size: 100px
+}
+
+a:target {
+
+}
+
+a:hover {
+  color: rgb(49, 230, 130);
+}
+
+.statement {
+  font-family: Roboto;
+  font-size: 50px;
+  color:rgb(4, 0, 211);
+}
+
+body {
+  font:
+    Helvetica,
+    Arial,
+    sans-serif;
+  color:rgb(255, 180, 180)
+}
+
+.outer {
+  
+}
+
+.inner {
+   border: 10px solid rgb(81, 19, 19);
+  padding: 10px;
+  background-image:
+    radial-gradient(ellipse farthest-corner, rgb(62, 17, 45), rgb(47, 97, 71));
+  background-color: transparent;
+
+}
+
+.footer {
+  border: 5px solid black;
+  background-color: green;
+  padding: 10px;
+  font-style: ital
+}
+
+body {
+  font:
+    Helvetica,
+    Arial,
+    sans-serif;
+  color:rgb(255, 180, 180);
+  background-image:
+    radial-gradient(circle, rgb(23, 48, 47), rgb(75, 7, 31)),
+    radial-gradient(ellipse farthest-corner, rgb(104, 108, 44), rgb(20, 28, 90));
+  background-color: transparent;
+ 
+}
